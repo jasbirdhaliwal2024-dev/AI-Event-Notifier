@@ -1,0 +1,25 @@
+body {
+    font-family: Arial, sans-serif;
+    max-width: 1000px;
+    margin: auto;
+    padding: 20px;
+    background-color: #FAF3E0;
+}
+
+h1 {
+    text-align: center;
+    color: #E8A0BF;
+}
+
+.story {
+    background: #FFFFF0;
+    padding: 20px;
+    margin-bottom: 15px;
+    border-radius: 10px;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+}
+
+.story h2 {
+    color: #E8A0BF
+    ;
+}
